@@ -1,0 +1,358 @@
+[
+    {
+        "id": "jakarta-barat",
+        "name": "Jakarta Barat",
+        "slug": "pengepul-minyak-jelantah-di-jakarta-barat",
+        "type": "kota",
+        "city": "Jakarta Barat",
+        "province": "DKI Jakarta",
+        "description": "Layanan pengepul minyak jelantah terpercaya di Jakarta Barat melayani seluruh kecamatan dengan sistem jemput bola gratis. Jakarta Barat sebagai wilayah strategis dengan banyak industri kuliner, hotel, dan rumah makan menjadi area potensial untuk pengumpulan minyak jelantah. Kami siap membeli minyak jelantah Anda dengan harga kompetitif dan pembayaran tunai di tempat. Melayani 8 kecamatan: Cengkareng, Grogol Petamburan, Taman Sari, Tambora, Kebon Jeruk, Kembangan, Palmerah, dan Kalideres. Tim profesional kami berpengalaman menangani dari volume rumah tangga hingga industri besar.",
+        "metaTitle": "Pengepul Minyak Jelantah Jakarta Barat | Jemput & Bayar Tunai",
+        "metaDescription": "Jual minyak jelantah di Jakarta Barat dengan harga terbaik. Melayani 8 kecamatan dengan sistem jemput gratis dan bayar tunai di tempat.",
+        "faqs": [
+            {
+                "question": "Kecamatan mana saja di Jakarta Barat yang dilayani?",
+                "answer": "Kami melayani seluruh Jakarta Barat termasuk Cengkareng, Kalideres, Kebon Jeruk, Kembangan, Palmerah, Grogol Petamburan, Tambora, dan Taman Sari."
+            },
+            {
+                "question": "Berapa harga minyak jelantah di Jakarta Barat?",
+                "answer": "Harga di Jakarta Barat berkisar Rp 1.500-6.000 per kg tergantung kualitas minyak jelantah dan volume. Hubungi kami untuk harga terbaru."
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "menteng",
+        "name": "Menteng",
+        "slug": "pengepul-minyak-jelantah-di-menteng",
+        "type": "kecamatan",
+        "city": "Jakarta Pusat",
+        "citySlug": "pengepul-minyak-jelantah-di-jakarta-pusat",
+        "province": "DKI Jakarta",
+        "description": "Pengepul minyak jelantah di Menteng melayani kawasan elit Jakarta Pusat ini dengan profesional. Menteng yang terkenal dengan deretan restoran mewah dan hotel berbintang menghasilkan minyak jelantah berkualitas tinggi. Kami berkomitmen memberikan harga terbaik dengan layanan jemput gratis langsung ke lokasi Anda. Tim kami berpengalaman menangani transaksi dengan bisnis kuliner premium maupun rumah tangga. Proses mudah dan cepat - hubungi via WhatsApp, kami datang, timbang, dan bayar tunai. Sistem kami transparan dengan timbangan digital bersertifikat.",
+        "kelurahan": [
+            "Menteng",
+            "Pegangsaan",
+            "Cikini",
+            "Kebon Sirih",
+            "Gondangdia"
+        ],
+        "postalCodes": [
+            "10310",
+            "10320",
+            "10330",
+            "10340"
+        ],
+        "nearbyIds": [
+            "tanah-abang",
+            "senen",
+            "gambir"
+        ],
+        "landmarks": "Taman Menteng, Jalan Sabang",
+        "metaTitle": "Pengepul Minyak Jelantah Menteng | Harga Terbaik",
+        "metaDescription": "Jual minyak jelantah di Menteng dengan harga kompetitif. Layanan jemput gratis untuk restoran dan rumah tangga. Bayar tunai langsung.",
+        "faqs": [
+            {
+                "question": "Apakah melayani restoran di Menteng?",
+                "answer": "Ya, kami spesialis melayani restoran, hotel, dan bisnis kuliner di Menteng dengan harga khusus untuk volume besar."
+            },
+            {
+                "question": "Berapa minimal untuk dijemput di Menteng?",
+                "answer": "Minimal 5 liter untuk penjemputan di Menteng. Kami siap datang sesuai jadwal yang Anda tentukan."
+            },
+            {
+                "question": "Bagaimana cara jual minyak jelantah di Menteng?",
+                "answer": "Hubungi kami via WhatsApp, beritahu lokasi di Menteng dan volume minyak, tim kami akan datang dan bayar tunai."
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "jakarta-pusat",
+        "name": "Jakarta Pusat",
+        "slug": "pengepul-minyak-jelantah-di-jakarta-pusat",
+        "type": "kota",
+        "city": "Jakarta Pusat",
+        "province": "DKI Jakarta",
+        "description": "Layanan pengepul minyak jelantah Jakarta Pusat melayani pusat ibukota dengan jangkauan ke 8 kecamatan. Sebagai jantung kota dengan kepadatan restoran, hotel, dan perkantoran, Jakarta Pusat memiliki potensi besar untuk pengumpulan minyak jelantah. Kami memberikan solusi praktis dengan sistem jemput gratis dan pembayaran tunai langsung. Melayani Menteng, Tanah Abang, Senen, Johar Baru, Cempaka Putih, Gambir, Sawah Besar, dan Kemayoran. Tim profesional berpengalaman siap melayani dari skala rumah tangga hingga industri besar.",
+        "metaTitle": "Pengepul Minyak Jelantah Jakarta Pusat | Layanan Terpercaya",
+        "metaDescription": "Jual minyak jelantah di Jakarta Pusat mudah dan menguntungkan. Jemput gratis ke 8 kecamatan, bayar tunai di tempat.",
+        "faqs": [
+            {
+                "question": "Area mana saja di Jakarta Pusat yang dilayani?",
+                "answer": "Kami melayani seluruh Jakarta Pusat: Menteng, Tanah Abang, Senen, Johar Baru, Cempaka Putih, Gambir, Sawah Besar, dan Kemayoran."
+            },
+            {
+                "question": "Apakah harga sama untuk semua area Jakarta Pusat?",
+                "answer": "Ya, harga standar sesuai kualitas minyak untuk seluruh Jakarta Pusat. Harga spesial untuk volume besar."
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "kebayoran-baru",
+        "name": "Kebayoran Baru",
+        "slug": "pengepul-minyak-jelantah-di-kebayoran-baru",
+        "type": "kecamatan",
+        "city": "Jakarta Selatan",
+        "citySlug": "pengepul-minyak-jelantah-di-jakarta-selatan",
+        "province": "DKI Jakarta",
+        "description": "Pengepul minyak jelantah di Kebayoran Baru melayani kawasan strategis Jakarta Selatan dengan dedikasi tinggi. Kebayoran Baru yang ramai dengan cafe, restoran, dan bisnis kuliner premium menjadi area potensial untuk minyak jelantah berkualitas. Kami tawarkan harga kompetitif dengan sistem jemput gratis ke lokasi Anda. Melayani area Senayan, Blok M, Melawai, dan sekitarnya. Tim kami profesional dan berpengalaman dalam menangani berbagai volume dari rumah tangga hingga hotel berbintang. Proses cepat, transparan, dan pembayaran tunai langsung di tempat.",
+        "kelurahan": [
+            "Selong",
+            "Gunung",
+            "Kramat Pela",
+            "Gandaria Selatan",
+            "Cipete Selatan",
+            "Pulo",
+            "Melawai",
+            "Petogogan",
+            "Rawa Barat",
+            "Senayan"
+        ],
+        "postalCodes": [
+            "12110",
+            "12120",
+            "12130",
+            "12140",
+            "12150",
+            "12160",
+            "12170",
+            "12180",
+            "12190"
+        ],
+        "nearbyIds": [
+            "pesanggrahan",
+            "mampang-prapatan",
+            "setiabudi"
+        ],
+        "landmarks": "Blok M Plaza, Senayan City, ITC Permata Hijau",
+        "metaTitle": "Pengepul Minyak Jelantah Kebayoran Baru | Jemput Gratis",
+        "metaDescription": "Jual minyak jelantah di Kebayoran Baru mudah dan menguntungkan. Melayani Senayan, Blok M, Melawai. Gratis jemput, bayar tunai.",
+        "faqs": [
+            {
+                "question": "Apakah melayani area Blok M Kebayoran Baru?",
+                "answer": "Ya, kami melayani seluruh Kebayoran Baru termasuk Blok M, Senayan, Melawai, dan Gandaria dengan layanan jemput gratis."
+            },
+            {
+                "question": "Berapa harga minyak jelantah di Kebayoran Baru?",
+                "answer": "Harga di Kebayoran Baru Rp 1.500-6.000/kg tergantung kualitas. Harga spesial untuk cafe dan restoran dengan volume besar."
+            },
+            {
+                "question": "Minimal berapa liter di Kebayoran Baru?",
+                "answer": "Minimal 5 liter untuk dijemput di Kebayoran Baru. Kami siap datang sesuai jadwal Anda."
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "jakarta-selatan",
+        "name": "Jakarta Selatan",
+        "slug": "pengepul-minyak-jelantah-di-jakarta-selatan",
+        "type": "kota",
+        "city": "Jakarta Selatan",
+        "province": "DKI Jakarta",
+        "description": "Layanan pengepul minyak jelantah Jakarta Selatan melayani area premium ibukota dengan 10 kecamatan. Jakarta Selatan yang terkenal dengan pusat kuliner, mall, dan kawasan bisnis menjadi sumber minyak jelantah berkualitas tinggi. Kami memberikan layanan profesional dengan jemput gratis dan bayar tunai di tempat. Melayani Kebayoran Baru, Kebayoran Lama, Pesanggrahan, Cilandak, Pasar Minggu, Jagakarsa, Mampang Prapatan, Pancoran, Tebet, dan Setiabudi. Harga kompetitif dan sistem transparan untuk kepuasan pelanggan.",
+        "metaTitle": "Pengepul Minyak Jelantah Jakarta Selatan | Harga Terbaik",
+        "metaDescription": "Jual minyak jelantah di Jakarta Selatan dengan mudah. Melayani 10 kecamatan, jemput gratis, bayar tunai langsung.",
+        "faqs": [
+            {
+                "question": "Kecamatan apa saja di Jakarta Selatan yang dilayani?",
+                "answer": "Kami melayani 10 kecamatan di Jakarta Selatan: Kebayoran Baru, Kebayoran Lama, Pesanggrahan, Cilandak, Pasar Minggu, Jagakarsa, Mampang Prapatan, Pancoran, Tebet, dan Setiabudi."
+            },
+            {
+                "question": "Apakah harga berbeda untuk setiap kecamatan di Jakarta Selatan?",
+                "answer": "Harga sama untuk seluruh Jakarta Selatan berdasarkan kualitas minyak. Bonus harga untuk volume besar dari restoran dan hotel."
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "jakarta-timur",
+        "name": "Jakarta Timur",
+        "slug": "pengepul-minyak-jelantah-di-jakarta-timur",
+        "type": "kota",
+        "city": "Jakarta Timur",
+        "province": "DKI Jakarta",
+        "description": "Pengepul minyak jelantah Jakarta Timur melayani wilayah terluas di DKI Jakarta dengan 10 kecamatan. Sebagai area dengan populasi terbesar dan banyak industri kuliner, Jakarta Timur memiliki potensi pengumpulan minyak jelantah yang sangat besar. Kami hadir dengan layanan jemput gratis dan pembayaran tunai untuk kemudahan Anda. Melayani Matraman, Pulo Gadung, Jatinegara, Kramatjati, Pasar Rebo, Cakung, Duren Sawit, Makasar, Ciracas, dan Cipayung. Tim berpengalaman siap melayani dari rumah tangga hingga industri besar.",
+        "metaTitle": "Pengepul Minyak Jelantah Jakarta Timur | Jemput Gratis",
+        "metaDescription": "Jual minyak jelantah di Jakarta Timur mudah. Melayani 10 kecamatan dengan jemput gratis dan bayar tunai di tempat.",
+        "faqs": [
+            {
+                "question": "Apakah melayani seluruh Jakarta Timur?",
+                "answer": "Ya, kami melayani 10 kecamatan di Jakarta Timur dengan layanan jemput gratis: Matraman, Pulo Gadung, Jatinegara, Kramatjati, Pasar Rebo, Cakung, Duren Sawit, Makasar, Ciracas, dan Cipayung."
+            },
+            {
+                "question": "Berapa harga minyak jelantah di Jakarta Timur?",
+                "answer": "Harga standar Jakarta Timur Rp 1.500-6.000/kg sesuai kualitas dan volume. Harga spesial untuk pelanggan tetap."
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "jakarta-utara",
+        "name": "Jakarta Utara",
+        "slug": "pengepul-minyak-jelantah-di-jakarta-utara",
+        "type": "kota",
+        "city": "Jakarta Utara",
+        "province": "DKI Jakarta",
+        "description": "Layanan pengepul minyak jelantah Jakarta Utara melayani kawasan pantai dan industri dengan 6 kecamatan. Jakarta Utara dengan banyak industri seafood, restoran, dan gudang kuliner menjadi area strategis untuk pengumpulan minyak jelantah. Kami memberikan solusi terbaik dengan jemput gratis dan bayar tunai. Melayani Koja, Kelapa Gading, Tanjung Priok, Pademangan, Penjaringan, dan Cilincing. Tim profesional kami berpengalaman menangani volume besar dari industri dan restoran.",
+        "metaTitle": "Pengepul Minyak Jelantah Jakarta Utara | Bayar Tunai",
+        "metaDescription": "Jual minyak jelantah di Jakarta Utara dengan harga kompetitif. Melayani 6 kecamatan, gratis jemput, bayar tunai.",
+        "faqs": [
+            {
+                "question": "Area mana di Jakarta Utara yang dilayani?",
+                "answer": "Kami melayani seluruh Jakarta Utara: Koja, Kelapa Gading, Tanjung Priok, Pademangan, Penjaringan, dan Cilincing dengan jemput gratis."
+            },
+            {
+                "question": "Apakah melayani industri seafood di Jakarta Utara?",
+                "answer": "Ya, kami spesialis melayani industri seafood dan restoran di Jakarta Utara dengan harga khusus untuk volume besar."
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "bogor",
+        "name": "Bogor",
+        "slug": "pengepul-minyak-jelantah-di-bogor",
+        "type": "kota",
+        "city": "Bogor",
+        "province": "Jawa Barat",
+        "description": "Pengepul minyak jelantah di Bogor melayani kota hujan dengan potensi kuliner yang besar. Bogor yang terkenal dengan wisata kulinernya menghasilkan volume minyak jelantah signifikan setiap hari. Kami hadir memberikan solusi dengan jemput gratis ke lokasi dan pembayaran tunai. Melayani area Bogor Kota, Bogor Barat, Bogor Timur, Bogor Selatan, Bogor Utara, dan Bogor Tengah. Tim kami siap melayani dari warung kecil hingga hotel dan restoran besar. Harga kompetitif dan sistem transparan untuk kepercayaan Anda.",
+        "metaTitle": "Pengepul Minyak Jelantah Bogor | Jemput & Bayar Tunai",
+        "metaDescription": "Jual minyak jelantah di Bogor dengan mudah. Layanan jemput gratis untuk seluruh area Bogor. Bayar tunai di tempat.",
+        "faqs": [
+            {
+                "question": "Apakah melayani seluruh Bogor?",
+                "answer": "Ya, kami melayani seluruh area Bogor termasuk Bogor Kota, Bogor Barat, Bogor Timur, Bogor Selatan, dan Bogor Utara dengan jemput gratis."
+            },
+            {
+                "question": "Berapa harga minyak jelantah di Bogor?",
+                "answer": "Harga di Bogor Rp 1.500-6.000/kg tergantung kualitas dan volume. Hubungi kami untuk penawaran terbaik."
+            },
+            {
+                "question": "Minimal berapa liter untuk dijemput di Bogor?",
+                "answer": "Minimal 10 liter untuk penjemputan di Bogor. Untuk volume besar, kami berikan harga spesial."
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "depok",
+        "name": "Depok",
+        "slug": "pengepul-minyak-jelantah-di-depok",
+        "type": "kota",
+        "city": "Depok",
+        "province": "Jawa Barat",
+        "description": "Layanan pengepul minyak jelantah Depok melayani kota penyangga Jakarta dengan sistem jemput bola gratis. Depok dengan banyak kampus, perumahan, dan pusat kuliner menjadi area potensial untuk pengumpulan minyak jelantah. Kami memberikan harga terbaik dengan pembayaran tunai langsung. Melayani Beji, Pancoran Mas, Cimanggis, Sawangan, Limo, Cinere, Sukmajaya, Cipayung Depok, Tapos, dan Cilodong. Tim profesional siap datang ke lokasi Anda kapanpun.",
+        "metaTitle": "Pengepul Minyak Jelantah Depok | Gratis Jemput",
+        "metaDescription": "Jual minyak jelantah di Depok dengan harga kompetitif. Jemput gratis ke seluruh area Depok, bayar tunai di tempat.",
+        "faqs": [
+            {
+                "question": "Apakah melayani area kampus UI Depok?",
+                "answer": "Ya, kami melayani seluruh Depok termasuk area kampus UI, Margonda,  dan sekitarnya dengan layanan jemput gratis."
+            },
+            {
+                "question": "Bagaimana cara jual minyak jelantah di Depok?",
+                "answer": "Hubungi kami via WhatsApp, beritahu alamat di Depok dan volume minyak, tim kami akan datang dan bayar tunai."
+            },
+            {
+                "question": "Berapa minimal untuk dijemput di Depok?",
+                "answer": "Minimal 10 liter untuk penjemputan di Depok. Kami fleksibel dengan jadwal sesuai kebutuhan Anda."
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "tangerang",
+        "name": "Tangerang",
+        "slug": "pengepul-minyak-jelantah-di-tangerang",
+        "type": "kota",
+        "city": "Tangerang",
+        "province": "Banten",
+        "description": "Pengepul minyak jelantah Tangerang melayani kota industri dan bisnis dengan jangkauan luas. Tangerang yang berkembang pesat dengan banyak mall, restoran, dan industri kuliner menjadi sumber minyak jelantah berkualitas. Kami tawarkan layanan jemput gratis dan pembayaran tunai untuk kemudahan Anda. Melayani Tangerang Kota, Ciledug, Karawaci, Bintaro, Serpong, BSD, Alam Sutera, dan sekitarnya. Tim berpengalaman siap melayani dari rumah tangga hingga industri besar dengan harga kompetitif.",
+        "metaTitle": "Pengepul Minyak Jelantah Tangerang | Harga Terbaik",
+        "metaDescription": "Jual minyak jelantah di Tangerang mudah. Melayani BSD, Serpong, Bintaro, Alam Sutera. Jemput gratis, bayar tunai.",
+        "faqs": [
+            {
+                "question": "Apakah melayani BSD dan Serpong?",
+                "answer": "Ya, kami melayani seluruh Tangerang termasuk BSD, Serpong, Bintaro, Alam Sutera, dan Karawaci dengan jemput gratis."
+            },
+            {
+                "question": "Berapa harga minyak jelantah di Tangerang?",
+                "answer": "Harga di Tangerang Rp 1.500-6.000/kg sesuai kualitas. Harga spesial untuk volume besar dari hotel dan restoran."
+            },
+            {
+                "question": "Minimal berapa liter di Tangerang?",
+                "answer": "Minimal 10 liter untuk dijemput di Tangerang. Untuk area BSD dan Serpong minimal 15 liter."
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "bekasi",
+        "name": "Bekasi",
+        "slug": "pengepul-minyak-jelantah-di-bekasi",
+        "type": "kota",
+        "city": "Bekasi",
+        "province": "Jawa Barat",
+        "description": "Layanan pengepul minyak jelantah Bekasi melayani kota industri terbesar di Jabodetabek. Bekasi dengan ribuan industri, pabrik, dan kantin karyawan menghasilkan volume minyak jelantah yang sangat besar. Kami hadir dengan sistem jemput gratis dan pembayaran tunai untuk melayani kebutuhan Anda. Melayani Bekasi Kota, Bekasi Barat, Bekasi Timur, Bekasi Selatan, Bekasi Utara, Cikarang, dan Tambun. Spesialis volume besar untuk industri dengan harga khusus dan jadwal rutin.",
+        "metaTitle": "Pengepul Minyak Jelantah Bekasi | Layanan Industri",
+        "metaDescription": "Jual minyak jelantah di Bekasi untuk industri dan rumah tangga. Gratis jemput, bayar tunai, harga spesial volume besar.",
+        "faqs": [
+            {
+                "question": "Apakah melayani industri di Cikarang Bekasi?",
+                "answer": "Ya, kami spesialis melayani industri di Bekasi termasuk Cikarang dengan sistem kontrak rutin dan harga spesial untuk volume besar."
+            },
+            {
+                "question": "Berapa minimal untuk industri di Bekasi?",
+                "answer": "Untuk industri di Bekasi, minimal 50 liter untuk mendapat harga spesial. Kami siap jadwal pickup rutin."
+            },
+            {
+                "question": "Apakah melayani rumah tangga di Bekasi?",
+                "answer": "Ya, kami juga melayani rumah tangga di Bekasi dengan minimal 10 liter untuk penjemputan gratis."
+            }
+        ],
+        "isActive": true
+    },
+    {
+        "id": "bandung",
+        "name": "Bandung",
+        "slug": "pengepul-minyak-jelantah-di-bandung",
+        "type": "kota",
+        "city": "Bandung",
+        "province": "Jawa Barat",
+        "description": "Pengepul minyak jelantah di Bandung segera hadir untuk melayani kota kembang dengan kuliner khasnya. Bandung yang terkenal sebagai surganya kuliner memiliki potensi besar untuk pengumpulan minyak jelantah berkualitas. Kami berencana memberikan layanan terbaik dengan sistem jemput dan bayar tunai untuk seluruh area Bandung Raya. Silakan hubungi kami untuk informasi lebih lanjut dan jadwal pembukaan layanan di Bandung.",
+        "metaTitle": "Pengepul Minyak Jelantah Bandung | Segera Hadir",
+        "metaDescription": "Layanan pengepul minyak jelantah akan segera hadir di Bandung. Hubungi kami untuk informasi lebih lanjut.",
+        "faqs": [
+            {
+                "question": "Kapan layanan di Bandung mulai beroperasi?",
+                "answer": "Layanan di Bandung sedang dalam persiapan. Hubungi kami via WhatsApp untuk informasi terbaru dan reservasi awal."
+            },
+            {
+                "question": "Apakah bisa jual minyak jelantah dari Bandung sekarang?",
+                "answer": "Untuk sementara Bandung belum terlayani. Silakan hubungi kami untuk area yang sudah aktif di Jabodetabek."
+            }
+        ],
+        "isActive": false
+    },
+    {
+        "id": "surabaya",
+        "name": "Surabaya",
+        "slug": "pengepul-minyak-jelantah-di-surabaya",
+        "type": "kota",
+        "city": "Surabaya",
+        "province": "Jawa Timur",
+        "description": "Pengepul minyak jelantah di Surabaya segera hadir untuk melayani kota pahlawan. Surabaya sebagai kota terbesar kedua di Indonesia dengan industri kuliner yang berkembang pesat menjadi target ekspansi kami selanjutnya. Kami berencana memberikan layanan profesional dengan harga kompetitif untuk seluruh area Surabaya. Hubungi kami untuk informasi lebih lanjut dan update kapan layanan akan dimulai.",
+        "metaTitle": "Pengepul Minyak Jelantah Surabaya | Segera Hadir",
+        "metaDescription": "Layanan pengepul minyak jelantah segera hadir di Surabaya. Tunggu informasi pembukaan layanan kami.",
+        "faqs": [
+            {
+                "question": "Kapan bisa jual minyak jelantah di Surabaya?",
+                "answer": "Layanan Surabaya dalam tahap persiapan. Follow media sosial kami atau hubungi WhatsApp untuk update pembukaan."
+            }
+        ],
+        "isActive": false
+    }
+]
