@@ -4,11 +4,13 @@ interface SectionProps {
     children: React.ReactNode;
     bg?: "white" | "gray" | "primary";
     className?: string;
+    id?: string;
 }
 
-export function Section({ children, bg = "white", className }: SectionProps) {
+export function Section({ children, bg = "white", className, id }: SectionProps) {
     return (
         <section
+            id={id}
             className={cn(
                 "py-12 md:py-16 lg:py-20",
                 bg === "white" && "bg-white",
